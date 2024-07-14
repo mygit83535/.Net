@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\bin\Debug\net6.0\Assignment13.deps.json
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\bin\Debug\net6.0\Assignment13.dll
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\bin\Debug\net6.0\Assignment13.pdb
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\obj\Debug\net6.0\Assignment13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\obj\Debug\net6.0\Assignment13.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\obj\Debug\net6.0\Assignment13.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\obj\Debug\net6.0\Assignment13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\obj\Debug\net6.0\Assignment13.dll
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\obj\Debug\net6.0\refint\Assignment13.dll
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\obj\Debug\net6.0\Assignment13.pdb
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assignment13\obj\Debug\net6.0\ref\Assignment13.dll

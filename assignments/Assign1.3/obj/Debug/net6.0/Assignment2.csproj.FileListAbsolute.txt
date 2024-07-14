@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\bin\Debug\net6.0\Assignment2.exe
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\bin\Debug\net6.0\Assignment2.deps.json
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\bin\Debug\net6.0\Assignment2.dll
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\bin\Debug\net6.0\Assignment2.pdb
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\obj\Debug\net6.0\Assignment2.dll
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\obj\Debug\net6.0\refint\Assignment2.dll
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\obj\Debug\net6.0\Assignment2.pdb
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dotNet\Assignments\Assignment1\Assign1.3\obj\Debug\net6.0\ref\Assignment2.dll
